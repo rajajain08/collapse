@@ -1,0 +1,37 @@
+:root{
+	font-size: 12px;
+}
+.flexi{
+	display: flex;
+	flex-wrap: wrap;
+}
+.propHead{
+	background-color: #EEEEEE;
+	height: 40px;
+	width: 50vw;
+	margin: auto;
+	border:1px solid #BEBEBE;
+	border-radius: 10px;
+}
+.font{
+	font-size: 2em;
+	align-content: center;
+	font-family:"Comic Sans MS", cursive, sans-serif;
+	color: #393939;
+}
+.font1{
+	font-size: 1em;
+	align-content: center;
+	font-family:"Comic Sans MS", cursive, sans-serif;
+	color: #393939;
+}
+.propTail{
+	background-color: #EEEEEE;
+	width: 50vw;
+	margin: auto;
+	border:1px solid #BEBEBE;
+	border-radius: 10px;
+}
+.margin1{
+	margin-top: 10px;
+}
